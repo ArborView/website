@@ -1,8 +1,6 @@
 body {
-    background: url('images/arbor-view.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+    background: #eee  !important;
+    padding-top: 50px;
 }
 h1 {
     color: #333;
